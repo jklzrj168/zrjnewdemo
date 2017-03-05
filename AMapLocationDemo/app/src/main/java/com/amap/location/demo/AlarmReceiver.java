@@ -5,7 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 
 import java.util.Date;
-
+//我增加的类
 public class AlarmReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
