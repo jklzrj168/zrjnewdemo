@@ -11,11 +11,12 @@ import com.amap.api.location.AMapLocation;
 import android.text.TextUtils;
 
 /**
- * 辅助工具类
+ * 辅助工具类：引用来自高德官方
  * @创建时间： 2015年11月24日 上午11:46:50
  * @项目名称： AMapLocationDemo2.x
  * @author hongming.wang
  * @文件名称: Utils.java
+ *  
  * @类型名称: Utils
  */
 public class Utils {
